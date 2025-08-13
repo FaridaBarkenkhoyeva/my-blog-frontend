@@ -111,7 +111,7 @@ Done:
 - installed axios
 - installed context 
 ## Step 3.1: React Project Setup
-
+Done
 - **Create Frontend Folder**: e.g., `client` or `app` 
 - **Initialize with Vite**
 - **Install Dependencies**
@@ -119,8 +119,8 @@ Done:
 - **Install Axios (optional)**
 
 ## Step 3.2: Set Up React Router
-
-- **Import Router Components**
+Done
+- **Import Router Components** 
 - **Wrap App with Router**
 - **Define Routes** (`/`, `/create-post`, `/posts/:id`, `/posts/:id/edit`)
 - **Verify Navigation Works**
