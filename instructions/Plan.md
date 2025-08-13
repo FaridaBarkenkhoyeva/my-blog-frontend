@@ -105,15 +105,18 @@ Use Postman or Insomnia to test:
 
 # Phase 3: Frontend Development (React) - Building the User Interface
 // I am here
-
+Done:
+- installed daisyUI and tailwind
+- installed  and tested routes
+- installed axios
+- installed context 
 ## Step 3.1: React Project Setup
 
-- **Create Frontend Folder**: e.g., `client` or `app`
+- **Create Frontend Folder**: e.g., `client` or `app` 
 - **Initialize with Vite**
 - **Install Dependencies**
 - **Install React Router**
 - **Install Axios (optional)**
-- **Clean Up Boilerplate**
 
 ## Step 3.2: Set Up React Router
 
